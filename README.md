@@ -12,3 +12,12 @@ Escribir un programa que imprima un patrón como el siguiente teniendo como inpu
 12     21
 1       1
 
+
+Solucion:
+
+1.- abrir enlace: https://go.dev/play/
+2.- copiar el contenido de main.go
+3.- Run
+
+
+
